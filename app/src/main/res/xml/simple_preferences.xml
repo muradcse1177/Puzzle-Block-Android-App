@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+       xmlns:robobunny="http://robobunny.com">
+    
+    <CheckBoxPreference 
+        android:key="parallaxsoftpref_phantom"
+        android:summary="@string/parallaxsoftpref_phantom_summary"
+        android:defaultValue="true"
+        android:title="@string/parallaxsoftpref_phantom_title"/>
+    
+    <CheckBoxPreference 
+        android:key="parallaxsoftpref_popup"
+        android:summary="@string/parallaxsoftpref_popup_summary"
+        android:defaultValue="true"
+        android:title="@string/parallaxsoftpref_popup_title"/>
+    
+    <PreferenceCategory
+        android:title="@string/parallaxsoftpref_category_sound"
+        android:key="sound_settings">
+        
+	    <com.parallaxsoftblockmatchup.game.paraSoftSeekBarPreference
+	        android:key="parallaxsoftpref_soundvolume"
+	        android:title="@string/soundvolume_parallaxsoftpref_title"
+	        android:defaultValue="40"
+	        android:max="100"
+	        robobunny:min="0"
+	        robobunny:unitsLeft=""
+	        robobunny:paraSoftunitsRight=" %" />
+        
+	    <CheckBoxPreference
+	        android:key="parallaxsoftpref_button_sound"
+	        android:defaultValue="false"
+	        android:title="@string/parallaxsoftpref_button_sound_title"/>
+	    
+		<com.parallaxsoftblockmatchup.game.paraSoftSeekBarPreference
+			android:key="parallaxsoftpref_musicvolume"
+			android:title="@string/musicvolume_parallaxsoftpref_title"
+			android:defaultValue="30"
+			android:max="100"
+			robobunny:min="0"
+			robobunny:unitsLeft=""
+			robobunny:paraSoftunitsRight=" %" />
+	    
+    </PreferenceCategory>
+    
+    <PreferenceCategory
+        android:title="@string/parallaxsoftpref_category_vibration"
+        android:key="vibration_settings">
+        
+	    <CheckBoxPreference 
+	        android:key="parallaxsoftpref_vibration_button"
+	        android:summary="@string/parallaxsoftpref_vibration_button_summary"
+	        android:defaultValue="false"
+	        android:title="@string/parallaxsoftpref_vibration_button_title"/>
+		    
+	    <EditTextPreference
+	        android:dialogMessage="@string/parallaxsoftpref_vibDurOffset_summary"
+	        android:positiveButtonText="OK"
+	        android:negativeButtonText="Cancel"
+	        android:key="parallaxsoftpref_vibDurOffset"
+	        android:numeric="integer"
+	        android:title="@string/parallaxsoftpref_vibDurOffset_title"
+	        android:dialogTitle="@string/parallaxsoftpref_vibDurOffset_title"
+	        android:defaultValue="@string/parallaxsoftpref_vibDurOffset_default" />
+        
+	    <CheckBoxPreference 
+	        android:key="parallaxsoftpref_vibration_events"
+	        android:summary="@string/parallaxsoftpref_vibration_events_summary"
+	        android:defaultValue="true"
+	        android:title="@string/parallaxsoftpref_vibration_events_title"/>
+    
+    </PreferenceCategory>
+    
+    <PreferenceCategory
+        android:title="@string/parallaxsoftpref_category_other"
+        android:key="other_settings">
+	    
+        
+	    <Preference
+	        android:title="@string/parallaxsoftpref_category_advanced"
+	        android:key="parallaxsoftpref_advanced"
+	        android:icon="@drawable/ic_settings">
+		    
+	    </Preference>
+	    
+    </PreferenceCategory>
+</PreferenceScreen>

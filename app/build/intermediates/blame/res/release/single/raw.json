@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\BlockMatchUp\\app\\build\\intermediates\\res\\merged\\release\\raw\\drop_free.ogg",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\BlockMatchUp\\app\\src\\main\\res\\raw\\drop_free.ogg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\BlockMatchUp\\app\\build\\intermediates\\res\\merged\\release\\raw\\tetris_free.ogg",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\BlockMatchUp\\app\\src\\main\\res\\raw\\tetris_free.ogg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\BlockMatchUp\\app\\build\\intermediates\\res\\merged\\release\\raw\\clear2_free.ogg",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\BlockMatchUp\\app\\src\\main\\res\\raw\\clear2_free.ogg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\BlockMatchUp\\app\\build\\intermediates\\res\\merged\\release\\raw\\key_free.ogg",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\BlockMatchUp\\app\\src\\main\\res\\raw\\key_free.ogg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\BlockMatchUp\\app\\build\\intermediates\\res\\merged\\release\\raw\\lemmings03.ogg",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\BlockMatchUp\\app\\src\\main\\res\\raw\\lemmings03.ogg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\BlockMatchUp\\app\\build\\intermediates\\res\\merged\\release\\raw\\gameover2_free.ogg",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\BlockMatchUp\\app\\src\\main\\res\\raw\\gameover2_free.ogg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\BlockMatchUp\\app\\build\\intermediates\\res\\merged\\release\\raw\\sadrobot01.ogg",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\BlockMatchUp\\app\\src\\main\\res\\raw\\sadrobot01.ogg"
+    }
+]

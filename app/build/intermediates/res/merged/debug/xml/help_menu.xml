@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+ 
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+	    <Preference
+	        android:key="parallaxsoftpref_help_scoring"
+	        android:summary="@string/parallaxsoftpref_help_scoring_summary"
+	        android:title="@string/parallaxsoftpref_help_scoring_title" />
+	    
+	    <Preference
+	        android:key="parallaxsoftpref_help_levels"
+	        android:summary="@string/parallaxsoftpref_help_levels_summary"
+	        android:title="@string/parallaxsoftpref_help_levels_title" />
+	    
+	    <Preference
+	        android:key="parallaxsoftpref_help_vibration"
+	        android:summary="@string/parallaxsoftpref_help_vibration_summary"
+	        android:title="@string/parallaxsoftpref_help_vibration_title" />
+	    
+	    <Preference
+	        android:key="parallaxsoftpref_help_apm"
+	        android:summary="@string/parallaxsoftpref_help_apm_summary"
+	        android:title="@string/parallaxsoftpref_help_apm_title" />
+	    
+	    <Preference
+	        android:key="parallaxsoftpref_help_fps"
+	        android:summary="@string/parallaxsoftpref_help_fps_summary"
+	        android:title="@string/parallaxsoftpref_help_fps_title" />
+	    
+	    <Preference
+	        android:key="parallaxsoftpref_help_randomizer"
+	        android:summary="@string/parallaxsoftpref_help_randomizer_summary"
+	        android:title="@string/parallaxsoftpref_help_randomizer_title" />
+	    
+	    <Preference
+	        android:key="parallaxsoftpref_help_resumability"
+	        android:summary="@string/parallaxsoftpref_help_resumability_summary"
+	        android:title="@string/parallaxsoftpref_help_resumability_title" />
+
+</PreferenceScreen>

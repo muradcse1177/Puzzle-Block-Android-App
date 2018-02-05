@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+ 
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+       xmlns:robobunny="http://robobunny.com">
+    
+    
+    
+		    <ListPreference
+		        android:entries="@array/randomizer_preference_array"
+		        android:entryValues="@array/randomizer_preference_values"
+		        android:key="parallaxsoftpref_rng"
+		        android:title="@string/parallaxsoftpref_rng_title"
+		        android:dialogTitle="@string/parallaxsoftpref_rng_title"
+		        android:defaultValue="@string/parallaxsoftpref_rngs_default" />
+    
+		    <com.parallaxsoftblockmatchup.game.paraSoftSeekBarPreference
+		        android:key="parallaxsoftpref_softdropspeed"
+		        android:title="@string/softdropspeed_parallaxsoftpref_title"
+		        android:defaultValue="7"
+		        android:max="30"
+		        robobunny:min="1"
+		        robobunny:unitsLeft=""
+		        robobunny:paraSoftunitsRight=" Lines per Second" />
+		    
+		    <CheckBoxPreference 
+		        android:key="parallaxsoftpref_accelerationV"
+		        android:summary="@string/parallaxsoftpref_accelerationV_summary"
+		        android:defaultValue="true"
+		        android:title="@string/parallaxsoftpref_accelerationV_title"/>
+		    
+		    <com.parallaxsoftblockmatchup.game.paraSoftSeekBarPreference
+		        android:key="parallaxsoftpref_movespeed"
+		        android:title="@string/movespeed_parallaxsoftpref_title"
+		        android:defaultValue="4"
+		        android:max="20"
+		        robobunny:min="1"
+		        robobunny:unitsLeft=""
+		        robobunny:paraSoftunitsRight=" paraSoftSquares per Second" />
+		    
+		    <CheckBoxPreference 
+		        android:key="parallaxsoftpref_accelerationH"
+		        android:summary="@string/parallaxsoftpref_accelerationH_summary"
+		        android:defaultValue="true"
+		        android:title="@string/parallaxsoftpref_accelerationH_title"/>
+    
+		    <CheckBoxPreference 
+		        android:key="parallaxsoftpref_fps"
+		        android:summary="@string/parallaxsoftpref_fps_summary"
+		        android:defaultValue="false"
+		        android:title="@string/parallaxsoftpref_fps_title"/>
+	        
+		    <CheckBoxPreference 
+		        android:key="parallaxsoftpref_paraSoftfpslimit"
+		        android:summary="@string/parallaxsoftpref_paraSoftfpslimit_summary"
+		        android:defaultValue="true"
+		        android:title="@string/parallaxsoftpref_paraSoftfpslimit_title" />
+		    
+		    <EditTextPreference
+		        android:dialogMessage="@string/parallaxsoftpref_paraSoftfpslimittext_summary"
+		        android:positiveButtonText="OK"
+		        android:negativeButtonText="Cancel"
+		        android:dependency="parallaxsoftpref_paraSoftfpslimit"
+		        android:numeric="integer"
+		        android:key="parallaxsoftpref_paraSoftfpslimittext"
+		        android:title="@string/parallaxsoftpref_paraSoftfpslimittext_title"
+		        android:dialogTitle="@string/parallaxsoftpref_paraSoftfpslimittext_title"
+		        android:defaultValue="@string/parallaxsoftpref_paraSoftfpslimittext_default" />
+		    
+		    <CheckBoxPreference 
+		        android:key="parallaxsoftpref_antialiasing"
+		        android:summary="@string/parallaxsoftpref_antialiasing_summary"
+		        android:defaultValue="true"
+		        android:title="@string/parallaxsoftpref_antialiasing_title" />
+    
+		    <PreferenceCategory
+		        android:title="@string/parallaxsoftpref_category_layout"
+		        android:key="layout_settings">
+			    
+				    <CheckBoxPreference 
+				        android:key="parallaxsoftpref_layoutswap"
+				        android:summary="@string/parallaxsoftpref_layoutswap_summary"
+				        android:defaultValue="false"
+				        android:title="@string/parallaxsoftpref_layoutswap_title" />
+	    
+    		</PreferenceCategory>
+		    
+</PreferenceScreen>

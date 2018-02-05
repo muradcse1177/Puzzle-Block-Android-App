@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\BlockMatchUp\\app\\build\\intermediates\\res\\merged\\release\\xml\\advanced_preferences.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\BlockMatchUp\\app\\src\\main\\res\\xml\\advanced_preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\BlockMatchUp\\app\\build\\intermediates\\res\\merged\\release\\xml\\about_menu.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\BlockMatchUp\\app\\src\\main\\res\\xml\\about_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\BlockMatchUp\\app\\build\\intermediates\\res\\merged\\release\\xml\\help_menu.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\BlockMatchUp\\app\\src\\main\\res\\xml\\help_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\BlockMatchUp\\app\\build\\intermediates\\res\\merged\\release\\xml\\simple_preferences.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\BlockMatchUp\\app\\src\\main\\res\\xml\\simple_preferences.xml"
+    }
+]

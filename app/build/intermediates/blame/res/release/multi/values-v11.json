@@ -1,0 +1,583 @@
+[
+    {
+        "outputFile": "C:\\Users\\HP\\AndroidStudioProjects\\BlockMatchUp\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 3,
+                    "endColumn": 12,
+                    "endOffset": 123
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\AndroidStudioProjects\\BlockMatchUp\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 126
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 128,
+                    "endLine": 9,
+                    "endColumn": 12,
+                    "endOffset": 542
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\.android\\build-cache\\88beaf1a6c803b72306573c82e3164a318d919a6\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 7,
+                        "endColumn": 12,
+                        "endOffset": 469
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 547,
+                    "endLine": 15,
+                    "endColumn": 12,
+                    "endOffset": 967
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\.android\\build-cache\\88beaf1a6c803b72306573c82e3164a318d919a6\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 474,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 894
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 972,
+                    "endLine": 21,
+                    "endColumn": 12,
+                    "endOffset": 1395
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\.android\\build-cache\\88beaf1a6c803b72306573c82e3164a318d919a6\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 899,
+                        "endLine": 19,
+                        "endColumn": 12,
+                        "endOffset": 1322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1400,
+                    "endLine": 27,
+                    "endColumn": 12,
+                    "endOffset": 1821
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\.android\\build-cache\\88beaf1a6c803b72306573c82e3164a318d919a6\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1327,
+                        "endLine": 25,
+                        "endColumn": 12,
+                        "endOffset": 1748
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1826,
+                    "endLine": 33,
+                    "endColumn": 12,
+                    "endOffset": 2248
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\.android\\build-cache\\88beaf1a6c803b72306573c82e3164a318d919a6\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1753,
+                        "endLine": 31,
+                        "endColumn": 12,
+                        "endOffset": 2175
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2253,
+                    "endLine": 39,
+                    "endColumn": 12,
+                    "endOffset": 2673
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\.android\\build-cache\\88beaf1a6c803b72306573c82e3164a318d919a6\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 2180,
+                        "endLine": 37,
+                        "endColumn": 12,
+                        "endOffset": 2600
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2678,
+                    "endColumn": 88,
+                    "endOffset": 2762
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\.android\\build-cache\\88beaf1a6c803b72306573c82e3164a318d919a6\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2605,
+                        "endColumn": 88,
+                        "endOffset": 2689
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2767,
+                    "endLine": 44,
+                    "endColumn": 12,
+                    "endOffset": 3008
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\.android\\build-cache\\88beaf1a6c803b72306573c82e3164a318d919a6\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2694,
+                        "endLine": 42,
+                        "endColumn": 12,
+                        "endOffset": 2935
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 3013,
+                    "endLine": 48,
+                    "endColumn": 12,
+                    "endOffset": 3257
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\.android\\build-cache\\88beaf1a6c803b72306573c82e3164a318d919a6\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 2940,
+                        "endLine": 46,
+                        "endColumn": 12,
+                        "endOffset": 3184
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 3262,
+                    "endColumn": 100,
+                    "endOffset": 3358
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\.android\\build-cache\\88beaf1a6c803b72306573c82e3164a318d919a6\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 3189,
+                        "endColumn": 100,
+                        "endOffset": 3285
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 3363,
+                    "endLine": 53,
+                    "endColumn": 12,
+                    "endOffset": 3610
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\.android\\build-cache\\88beaf1a6c803b72306573c82e3164a318d919a6\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 3290,
+                        "endLine": 51,
+                        "endColumn": 12,
+                        "endOffset": 3537
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 3615,
+                    "endLine": 57,
+                    "endColumn": 12,
+                    "endOffset": 3865
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\.android\\build-cache\\88beaf1a6c803b72306573c82e3164a318d919a6\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 3542,
+                        "endLine": 55,
+                        "endColumn": 12,
+                        "endOffset": 3792
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 3870,
+                    "endColumn": 102,
+                    "endOffset": 3968
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\.android\\build-cache\\88beaf1a6c803b72306573c82e3164a318d919a6\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 3797,
+                        "endColumn": 102,
+                        "endOffset": 3895
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 3973,
+                    "endLine": 62,
+                    "endColumn": 12,
+                    "endOffset": 4221
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\.android\\build-cache\\88beaf1a6c803b72306573c82e3164a318d919a6\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 3900,
+                        "endLine": 60,
+                        "endColumn": 12,
+                        "endOffset": 4148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 4226,
+                    "endLine": 67,
+                    "endColumn": 12,
+                    "endOffset": 4629
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\.android\\build-cache\\88beaf1a6c803b72306573c82e3164a318d919a6\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 4153,
+                        "endLine": 65,
+                        "endColumn": 12,
+                        "endOffset": 4556
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 4634,
+                    "endLine": 72,
+                    "endColumn": 12,
+                    "endOffset": 5049
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\.android\\build-cache\\88beaf1a6c803b72306573c82e3164a318d919a6\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 4561,
+                        "endLine": 70,
+                        "endColumn": 12,
+                        "endOffset": 4976
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 5054,
+                    "endLine": 77,
+                    "endColumn": 12,
+                    "endOffset": 5471
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\.android\\build-cache\\88beaf1a6c803b72306573c82e3164a318d919a6\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 4981,
+                        "endLine": 75,
+                        "endColumn": 12,
+                        "endOffset": 5398
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 5476,
+                    "endLine": 79,
+                    "endColumn": 12,
+                    "endOffset": 5578
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\.android\\build-cache\\88beaf1a6c803b72306573c82e3164a318d919a6\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 4,
+                        "startOffset": 5403,
+                        "endLine": 77,
+                        "endColumn": 12,
+                        "endOffset": 5505
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 5583,
+                    "endLine": 81,
+                    "endColumn": 12,
+                    "endOffset": 5707
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\.android\\build-cache\\88beaf1a6c803b72306573c82e3164a318d919a6\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 4,
+                        "startOffset": 5510,
+                        "endLine": 79,
+                        "endColumn": 12,
+                        "endOffset": 5634
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 5712,
+                    "endLine": 84,
+                    "endColumn": 12,
+                    "endOffset": 5871
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\AndroidStudioProjects\\BlockMatchUp\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 571,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 730
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 5876,
+                    "endLine": 91,
+                    "endColumn": 12,
+                    "endOffset": 6309
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\AndroidStudioProjects\\BlockMatchUp\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 132,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 565
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 6314,
+                    "endColumn": 70,
+                    "endOffset": 6380
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\.android\\build-cache\\88beaf1a6c803b72306573c82e3164a318d919a6\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 5639,
+                        "endColumn": 70,
+                        "endOffset": 5705
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 6385,
+                    "endColumn": 82,
+                    "endOffset": 6463
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\.android\\build-cache\\88beaf1a6c803b72306573c82e3164a318d919a6\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 4,
+                        "startOffset": 5710,
+                        "endColumn": 82,
+                        "endOffset": 5788
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 6468,
+                    "endLine": 146,
+                    "endColumn": 12,
+                    "endOffset": 10402
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\.android\\build-cache\\88beaf1a6c803b72306573c82e3164a318d919a6\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 4,
+                        "startOffset": 5793,
+                        "endLine": 134,
+                        "endColumn": 12,
+                        "endOffset": 9727
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 147,
+                    "startColumn": 4,
+                    "startOffset": 10407,
+                    "endLine": 200,
+                    "endColumn": 12,
+                    "endOffset": 14484
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\.android\\build-cache\\88beaf1a6c803b72306573c82e3164a318d919a6\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 135,
+                        "startColumn": 4,
+                        "startOffset": 9732,
+                        "endLine": 188,
+                        "endColumn": 12,
+                        "endOffset": 13809
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 201,
+                    "startColumn": 4,
+                    "startOffset": 14489,
+                    "endColumn": 90,
+                    "endOffset": 14575
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\.android\\build-cache\\88beaf1a6c803b72306573c82e3164a318d919a6\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 189,
+                        "startColumn": 4,
+                        "startOffset": 13814,
+                        "endColumn": 90,
+                        "endOffset": 13900
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 202,
+                    "startColumn": 4,
+                    "startOffset": 14580,
+                    "endLine": 203,
+                    "endColumn": 8,
+                    "endOffset": 14701
+                },
+                "from": {
+                    "file": "C:\\Users\\HP\\.android\\build-cache\\5d51d8877b1d7eefbca3141b20092686807d5f7f\\output\\res\\values-v11\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 172,
+                        "endLine": 5,
+                        "endColumn": 8,
+                        "endOffset": 293
+                    }
+                }
+            }
+        ]
+    }
+]

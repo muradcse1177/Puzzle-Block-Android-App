@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+	    <Preference
+	        android:key="parallaxsoftpref_version"
+	        android:summary="@string/parallaxsoftpref_version_summary"
+	        android:title="@string/parallaxsoftpref_version_title" />
+	    
+	    <Preference
+	        android:key="parallaxsoftpref_license"
+	        android:summary="@string/parallaxsoftpref_license_summary"
+	        android:title="@string/parallaxsoftpref_license_title" />
+	    
+	    <Preference
+	        android:key="parallaxsoftpref_license_music"
+	        android:summary="@string/parallaxsoftpref_license_music_summary"
+	        android:title="@string/parallaxsoftpref_license_music_title" />
+	    
+	    <Preference
+	        android:key="parallaxsoftpref_author"
+	        android:summary="@string/parallaxsoftpref_author_summary"
+	        android:title="@string/parallaxsoftpref_author_title" />
+
+</PreferenceScreen>
